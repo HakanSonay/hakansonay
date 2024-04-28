@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #bb3847;">Hi there! 👋🏻 I'm Hakan a.k.a. Hackan</h1>
+<h1 align="center" style="color: #bb3847;">Hi there! 👋🏻 I'm Hakan AKA Hackan</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hakansonay&label=Profile%20views&color=bb3847&style=flat" alt="hakansonay" /> </p>
 
 <h3 align="left" style="color: #bb3847;">Penetration Tester by day ☼ and a Security Researcher by night ☾</h1>
